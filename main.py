@@ -1,3 +1,5 @@
+# uv add ultralytics opencv-python cvzone
+
 import cv2
 import math
 import time
